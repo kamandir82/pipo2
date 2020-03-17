@@ -1,0 +1,7 @@
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\obj\Debug\Konsola_diagram_klas.csprojAssemblyReference.cache
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\obj\Debug\Konsola_diagram_klas.csproj.CoreCompileInputs.cache
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\bin\Debug\Konsola_diagram_klas.exe.config
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\bin\Debug\Konsola_diagram_klas.exe
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\bin\Debug\Konsola_diagram_klas.pdb
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\obj\Debug\Konsola_diagram_klas.exe
+C:\Users\kaman\source\repos\Konsola_diagram_klas\Konsola_diagram_klas\obj\Debug\Konsola_diagram_klas.pdb
